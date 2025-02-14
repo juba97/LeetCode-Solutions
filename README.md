@@ -4,6 +4,6 @@
 <br>
 [big countries](https://github.com/juba97/LeetCode-Solutions/blob/main/0595-big-countries/0595-big-countries.sql)
 <br>
-([article views](https://github.com/juba97/LeetCode-Solutions/blob/main/1258-article-views-i/1258-article-views-i.sql)
+[article views](https://github.com/juba97/LeetCode-Solutions/blob/main/1258-article-views-i/1258-article-views-i.sql)
 
 <!---LeetCode Topics End-->
